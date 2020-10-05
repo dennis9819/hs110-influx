@@ -1,5 +1,5 @@
 # Simple script to sotre HS110 Power-Data metrics to influx
-=> New Python version: https://github.com/dennis9819/jokes_webpage_2
+=> New Python version: https://github.com/dennis9819/hs110-influx-2
 
 This script uses the tplink-smartplug python library to retrieve power data form the TP-Link HS110 Smart-Plug and store it into an influx-database.
 https://github.com/softScheck/tplink-smartplug
